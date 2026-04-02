@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello, I'm Takeshi Onodera（小野寺 岳志）| Freelance Python Programmer 👋
 
-<!--
-**ferveuretzen/ferveuretzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+フリーランスの熟年プログラマです。Pythonでコンパクトで洗練されたコードを書くことを愛しています。
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python
+- **Tools:** GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Software Engineer / Senior Manager / Distinguished Engineer | Sony Semiconductor Solutions** (1986 - 2025)
+  - 大規模先端半導体製品の量産テスト容易化設計技術(DFT; Design-For-Testability)の社内先駆者として、在職のほぼ全期間をその技術開発/導入に尽力してきました。
+  - ここ数年間は、画像診断にDNNを活用するなど、Pythonとそのライブラリを駆使して技術開発をしてきました。
+
+## 🚀 Projects (Featured Samples)
+- [msa-under-strict-colomn-homogeneity](https://github.com/ferveuretzen/msa-under-strict-column-homogeneity): 複数の長大なリストを比較して、同じ項目を同じ出現位置になるように整列するライブラリ
+
+## 📈 Stats
+![Your GitHub stats](https://github-readme-status/vercel.app/api?username=ferveuretzen)
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/takeshi-onodera/)
