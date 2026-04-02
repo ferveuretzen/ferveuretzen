@@ -1,4 +1,4 @@
-# Hello, I'm Takeshi Onodera（小野寺 岳志）| Freelance Python Programmer 👋
+＃# Hello, I'm Takeshi Onodera（小野寺 岳志）| Freelance Python Programmer 👋
 
 フリーランスの熟年プログラマです。Pythonでコンパクトで洗練されたコードを書くことを愛しています。
 
