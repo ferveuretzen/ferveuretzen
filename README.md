@@ -15,7 +15,7 @@
 - [msa-under-strict-colomn-homogeneity](https://github.com/ferveuretzen/msa-under-strict-column-homogeneity): 複数の長大なリストを比較して、同じ項目を同じ出現位置になるように整列するライブラリ
 
 ## 📈 Stats
-![Your GitHub stats](https://github-readme-status/vercel.app/api?username=ferveuretzen)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferveuretzen)
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/takeshi-onodera/)
