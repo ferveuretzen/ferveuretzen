@@ -12,7 +12,7 @@
   - ここ数年間は、画像診断にDNNを活用するなど、Pythonとそのライブラリを駆使して技術開発をしてきました。
 
 ## 🚀 Projects (Featured Samples)
-- [msa-under-strict-colomn-homogeneity](https://github.com/ferveuretzen/msa-under-strict-column-homogeneity): 複数の長大なリストを比較して、同じ項目を同じ出現位置になるように整列するライブラリ
+- [Strict Column Homogeneity Multiple Sequence Alignment](https://github.com/ferveuretzen/msa-under-strict-column-homogeneity): 複数の長大なリストを比較して、同じ項目が同じ出現位置になるように整列するライブラリ
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/takeshi-onodera/)
