@@ -9,6 +9,7 @@
 ## 💼 Experience
 - **Software Engineer / Senior Manager / Distinguished Engineer | Sony Semiconductor Solutions** (1986 - 2025)
   - 大規模先端半導体製品の量産テスト容易化設計技術(DFT; Design-For-Testability)の社内先駆者として、在職のほぼ全期間をその技術開発/導入に尽力してきました。
+  - 業務遂行のため、C, Perl, VBA, Python 等の言語を駆使して社内向けプログラムを作成してきました。
   - ここ数年間は、画像診断にDNNを活用するなど、Pythonとそのライブラリを駆使して技術開発をしてきました。
 
 ## 🚀 Projects (Featured Samples)
